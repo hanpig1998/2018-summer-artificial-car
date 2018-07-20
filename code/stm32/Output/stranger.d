@@ -1,0 +1,14 @@
+..\..\output\stranger.o: stranger.C
+..\..\output\stranger.o: ..\..\Libraries\FWlib\inc\stranger.h
+..\..\output\stranger.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\stranger.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\stranger.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\stranger.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\stranger.o: ..\..\User\stm32f10x_conf.h
+..\..\output\stranger.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\stranger.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\stranger.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\stranger.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\stranger.o: ..\..\User\usart\bsp_usart1.h
+..\..\output\stranger.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\stranger.o: ..\..\User\SysTick\bsp_SysTick.h
